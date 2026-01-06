@@ -24,7 +24,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/chandan-kushwaha" target="_blank">
+<a href="https://www.linkedin.com/in/chandan-kushwaha-41337b346?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://instagram.com/_chandan.js" target="_blank">
