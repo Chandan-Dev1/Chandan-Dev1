@@ -66,20 +66,12 @@
 </tr>
 </table>
 
----
-
-### 🌐 Connect With Me
+### 🐍 Contribution Snake
 
 <p align="center">
-<a href="https://www.linkedin.com/in/chandan-kushwaha-41337b346" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/_chandan.js" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
----
 
 <p align="center">
   <b>🚀 Building Projects | Learning Daily | Growing as a Developer</b>
@@ -92,9 +84,17 @@
 - 💬 Ask me about **React, JavaScript, Web Development**  
 - ⚡ Fun fact: *I debug faster when music is playing* 🎧😄
 
----
+- ### 🌐 Connect With Me
 
-## 🎯 Career Focus
+<p align="center">
+<a href="https://www.linkedin.com/in/chandan-kushwaha-41337b346" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/_chandan.js" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
-```txt
+
+🎯 Career Focus
 Full-Stack Development • Clean UI/UX • Scalable Systems • Real-World Problem Solving
