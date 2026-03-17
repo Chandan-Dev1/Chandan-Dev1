@@ -66,23 +66,14 @@
 </tr>
 </table>
 
-### 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
-
-
-<p align="center">
-  <b>🚀 Building Projects | Learning Daily | Growing as a Developer</b>
-</p>
 
 ### 🚀 About Me
 
 - 💻 Full Stack Developer focused on modern web apps  
 - 🌱 Currently learning **MERN Stack, Advanced React, GSAP**  
 - 💬 Ask me about **React, JavaScript, Web Development**  
-- ⚡ Fun fact: *I debug faster when music is playing* 🎧😄
+- ⚡ Fun fact: **I debug faster when music is playing**
 
 - ### 🌐 Connect With Me
 
